@@ -1,5 +1,4 @@
 # 📇 Contact Card App
-
 A simple React app that displays a list of contact cards using props and reusable components.
 
 ## 🚀 Features
